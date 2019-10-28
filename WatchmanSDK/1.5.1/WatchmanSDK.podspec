@@ -22,7 +22,5 @@ Pod::Spec.new do |s|
     s.dependency 'RxCocoa', '~> 5.0'
     s.dependency 'Swinject', '~> 2.0'
     s.dependency 'SwinjectAutoregistration', '~> 2.0'
-    s.dependency 'WDNetwork', '1.0.0'
-    s.dependency 'WDCommon', '1.0.0'
-    s.dependency 'WDConnectivity', '1.0.0'
+    
 end
